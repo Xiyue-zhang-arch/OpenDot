@@ -293,6 +293,7 @@ OpenDot 当前处于持续开发阶段。仓库已经包含：
 - [`docs/workspace-memory-v2.md`](docs/workspace-memory-v2.md) — Workspace Memory 的数据模型、版本与交互边界
 - [`docs/runtime-migration.md`](docs/runtime-migration.md) — 从旧运行时到 Pi Agent Runtime 的迁移记录
 - [`docs/personal-agent/architecture.md`](docs/personal-agent/architecture.md) — Personal Agent 架构现状与迁移边界
+- [`docs/personal-agent/agent-platform-questions.md`](docs/personal-agent/agent-platform-questions.md) — Agent 平台业务、Runtime、上下文、授权与群聊协作的白话问答
 - [`docs/personal-agent/goals-and-tasks.md`](docs/personal-agent/goals-and-tasks.md) — 可选 Goal 任务入口、现有 Scheduler 集成与运行预算（`MINICLAW_PERSONAL_GOALS=true`）
 - [`docs/personal-agent/evaluation.md`](docs/personal-agent/evaluation.md) — 可复现的验证证据与未验证事项
 - [`docs/PROMPT-SKILL-RUNTIME-TEST-PLAN.md`](docs/PROMPT-SKILL-RUNTIME-TEST-PLAN.md) — Prompt、Skill、Runtime 与 Agent Builder 验证计划
